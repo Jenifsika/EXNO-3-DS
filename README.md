@@ -31,7 +31,33 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+![image](https://github.com/user-attachments/assets/bf819a21-23bd-4b0e-8d5d-8f88e3f0bdcd)
+![image](https://github.com/user-attachments/assets/70fcced1-dbed-496c-8997-0c762890dcf9)
+![image](https://github.com/user-attachments/assets/a5502d57-e9d8-46f2-a1be-117bfc8c45be)
+![image](https://github.com/user-attachments/assets/ccf2ee79-c74b-4399-abef-ba7929669e86)
+![image](https://github.com/user-attachments/assets/55cb094f-cfed-45c0-b81c-3d6c362bdd04)
+![image](https://github.com/user-attachments/assets/e253354e-df1a-465b-a1c1-585c81fab280)
+![image](https://github.com/user-attachments/assets/7463c8b2-5ea9-4445-930c-0f65f4fcd8b1)
+![image](https://github.com/user-attachments/assets/3a94f218-732f-4f77-83eb-77449677f311)
+![image](https://github.com/user-attachments/assets/e5285b7a-1d7b-459b-9d89-6b8a4ce79095)
+![image](https://github.com/user-attachments/assets/317097d9-de64-404c-83a2-42723edb0ecc)
+![image](https://github.com/user-attachments/assets/0253a1fb-bdcb-48ed-be47-5ccc6a273ab2)
+![image](https://github.com/user-attachments/assets/dba9c718-5cac-4590-a26d-0f6dd00dd9cc)
+![image](https://github.com/user-attachments/assets/11714ce5-6c95-4765-a72c-0623b1302bd8)
+![image](https://github.com/user-attachments/assets/6aa07836-c940-467e-aedc-e33b22c238e8)
+![image](https://github.com/user-attachments/assets/461767fc-c8dc-4167-81f4-ea1fc66cf49f)
+![image](https://github.com/user-attachments/assets/e5fea77a-0790-444f-a19a-f9448390c11c)
+![image](https://github.com/user-attachments/assets/e60a28b8-d105-4543-becb-359b4dacd324)
+![image](https://github.com/user-attachments/assets/b9eb4adf-d27d-4a94-be9b-4f3d09819b1b)
+![image](https://github.com/user-attachments/assets/3ea68c60-4bcc-4e0f-86bb-5b0c4dc2eabb)
+![image](https://github.com/user-attachments/assets/569f1419-2cfe-43f3-a5fa-ce74323b841f)
+![image](https://github.com/user-attachments/assets/ba98c6e7-19d8-4ca2-a491-7c7805f1a717)
+![image](https://github.com/user-attachments/assets/7c6c7458-a3ff-48ac-905c-d903bdc5050e)
+![WhatsApp Image 2025-04-23 at 15 18 17_c0d6f343](https://github.com/user-attachments/assets/a38d2b2c-b5b1-4959-9432-6e556cd7f8f1)
+
+
+
+
 # RESULT:
        # INCLUDE YOUR RESULT HERE
 
